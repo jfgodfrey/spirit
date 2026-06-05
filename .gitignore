@@ -1,25 +1,22 @@
-# TYPO3 / CMS paths
 /vendor/
 /var/
+<<<<<<< HEAD
 /public_html/_assets/
 /public_html/_assets_install/
 /public_html/typo3/
 /public_html/typo3conf/ext/
 /public_html/typo3temp/
 /public_html/fileadmin/
-
+=======
 /public/_assets/
 /public/_assets_install/
 /public/typo3/
 /public/typo3conf/ext/
 /public/typo3temp/
 /public/fileadmin/
-
-# Database dumps
-*.sql
+>>>>>>> 3c42bbb (First commit)
 *.sql.gz
-
-# DDEV
+*.sql
 .ddev/.homeadditions/
 .ddev/.sshimageBuild/
 .ddev/mutagen/
@@ -27,9 +24,5 @@
 .ddev/db_snapshots/
 .ddev/.importdb*
 .ddev/xhprof/
-
-# Node
 node_modules/
-
-# TYPO3 settings
 config/system/settings.php
