@@ -1,0 +1,18 @@
+[/home/spirit/public_html]
+htaccess_list = /home/spirit/public_html/typo3temp/assets/compressed/.htaccess,/home/spirit/public_html/typo3temp/var/log/.htaccess,/home/spirit/public_html/typo3temp/var/.htaccess,/home/spirit/public_html/typo3temp/var/session/535914a4487795764b92f92608c8ceabc43a01a5/.htaccess,/home/spirit/public_html/.htaccess,/home/spirit/public_html/typo3conf/ext/rx_shariff/Resources/Private/.htaccess,/home/spirit/public_html/typo3conf/ext/bootstrap_package/Resources/Private/.htaccess,/home/spirit/public_html/typo3conf/ext/bootstrap_package/Configuration/.htaccess,/home/spirit/public_html/typo3conf/ext/bootstrap_package/Contrib/.htaccess,/home/spirit/public_html/typo3conf/ext/bca/Classes/.htaccess,/home/spirit/public_html/typo3conf/ext/bca/Resources/Private/.htaccess,/home/spirit/public_html/typo3conf/ext/bca/Configuration/.htaccess,/home/spirit/public_html/typo3conf/ext/bca/Build/.htaccess,/home/spirit/public_html/typo3conf/ext/ns_disqus_comments/Resources/Private/.htaccess,/home/spirit/public_html/typo3conf/ext/powermail/Resources/Private/.htaccess,/home/spirit/public_html/typo3conf/ext/news/Resources/Private/.htaccess,/home/spirit/public_html/fileadmin/user_upload/_temp_/importexport/.htaccess,/home/spirit/public_html/fileadmin/.htaccess,/home/spirit/public_html/fileadmin/_temp_/.htaccess
+
+[/home/spirit/stage.spirit.org]
+htaccess_list = 
+
+[/home/spirit/stage.spirit.org/public]
+htaccess_list = /home/spirit/stage.spirit.org/public/fileadmin/.htaccess,/home/spirit/stage.spirit.org/public/fileadmin/_temp_/.htaccess,/home/spirit/stage.spirit.org/public/fileadmin/user_upload/_temp_/importexport/.htaccess,/home/spirit/stage.spirit.org/public/.htaccess,/home/spirit/stage.spirit.org/public/typo3conf/ext/rx_shariff/Resources/Private/.htaccess,/home/spirit/stage.spirit.org/public/typo3conf/ext/bca11/Build/.htaccess,/home/spirit/stage.spirit.org/public/typo3conf/ext/bca11/Classes/.htaccess,/home/spirit/stage.spirit.org/public/typo3conf/ext/bca11/Configuration/.htaccess,/home/spirit/stage.spirit.org/public/typo3conf/ext/bca11/Resources/Private/.htaccess,/home/spirit/stage.spirit.org/public/typo3conf/ext/news/Resources/Private/.htaccess,/home/spirit/stage.spirit.org/public/typo3conf/ext/bootstrap_package/Configuration/.htaccess,/home/spirit/stage.spirit.org/public/typo3conf/ext/bootstrap_package/Contrib/.htaccess,/home/spirit/stage.spirit.org/public/typo3conf/ext/bootstrap_package/Resources/Private/.htaccess,/home/spirit/stage.spirit.org/public/typo3/sysext/core/Documentation/Changelog/.htaccess,/home/spirit/stage.spirit.org/public/typo3temp/assets/compressed/.htaccess
+
+[/home/spirit/stage.spirit.org/public_html]
+htaccess_list = /home/spirit/stage.spirit.org/public_html/vendor/typo3/cms-core/Documentation/Changelog/.htaccess,/home/spirit/stage.spirit.org/public_html/public/fileadmin/.htaccess,/home/spirit/stage.spirit.org/public_html/public/fileadmin/_temp_/.htaccess,/home/spirit/stage.spirit.org/public_html/public/fileadmin/user_upload/_temp_/importexport/.htaccess,/home/spirit/stage.spirit.org/public_html/var/.htaccess
+
+[/home/spirit/ed.spirit.org/public_html]
+htaccess_list = /home/spirit/ed.spirit.org/public_html/.htaccess,/home/spirit/ed.spirit.org/public_html/fileadmin/.htaccess,/home/spirit/ed.spirit.org/public_html/fileadmin/_temp_/.htaccess,/home/spirit/ed.spirit.org/public_html/fileadmin/user_upload/_temp_/importexport/.htaccess
+
+[/home/spirit/ef.spirit.org/public]
+htaccess_list = 
+

@@ -1,0 +1,5 @@
+{
+    "require": {
+        "clue/phar-composer": "^1.2"
+    }
+}
