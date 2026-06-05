@@ -6,6 +6,12 @@
 /public_html/typo3conf/ext/
 /public_html/typo3temp/
 /public_html/fileadmin/
+/public/_assets/
+/public/_assets_install/
+/public/typo3/
+/public/typo3conf/ext/
+/public/typo3temp/
+/public/fileadmin/
 *.sql.gz
 *.sql
 .ddev/.homeadditions/
